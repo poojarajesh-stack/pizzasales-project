@@ -23,23 +23,21 @@ Queries solved in BigQuery to define KPIs
 6. **Bottom 5 worst-selling pizzas sold** - Bar chart to identify underperforming/least popular pizza options
 
 
-7. **KEY INSIGHTS** -
-8. **Total Revenue** - $8,17,860
-9. **Average Order Value** - $38.31
-10. **Total Pizzas sold** - 49,574
-11. **Total Orders** - 21,350
-12. **Average Pizza per order** - 2.32
+**KEY INSIGHTS** -
+1. **Total Revenue** - $8,17,860
+2. **Average Order Value** - $38.31
+3. **Total Pizzas sold** - 49,574
+4. **Total Orders** - 21,350
+5. **Average Pizza per order** - 2.32
 
-13. **Busiest Days & Times** -
-14. DAYS - Orders are highest on weekends, Thursday/Fridays evenings
-15. TIMES - There are maximum orders from 12PM - 1 PM & offers between 5-8PM
+**Busiest Days & Times** -
+1. DAYS - Orders are highest on weekends, Thursday/Fridays evenings
+2. TIMES - There are maximum orders from 12PM - 1 PM & offers between 5-8PM
 
+**Sales by Category & Size** -
+1. CATEGORY - 'Classic category' contributes to maximum sales & total orders
+2. SIZE - 'Large' size pizza contributes to maximum sizes
 
-16. ****Sales by Category & Size**** -
-17. CATEGORY - 'Classic category' contributes to maximum sales & total orders
-18. SIZE - 'Large' size pizza contributes to maximum sizes
-
-
-19. ****Best & Worst Sellers **-******
-20. BEST SELLING - 'Classic Delight' top revenue generator
-21. WORST SELLING - The Soppressata is bottom in both revenue and orders
+**Best & Worst Sellers** - 
+1. BEST SELLING - 'Classic Delight' top revenue generator
+2. WORST SELLING - The Soppressata is bottom in both revenue and orders
