@@ -17,10 +17,11 @@ Queries solved in BigQuery to define KPIs
 
 1. **Daily trend for total orders** - Bar chart to display the daily trend of total orders over a specific time period. This chart helps identify any patterns/fluctuations in order volumes on a daily basis.
 2. **Hourly trend for total orders** - Line chart to illustrate the hourly trend of total orders throughout the day. This chart allows us to identify peak hours of high-order quantity
-3.** Percentage of sales by pizza size** - Pie chart to understand customer preferences for pizza sizes and their input on sales.
-4. **Total pizzas sold by pizza category** - Bar chart to represent the total number of pizzas sold for each pizza category. Compare the sales performance of different pizza categories.
-5. **Top 5 Best-selling pizzas by total pizzas sold** - Bar chart to identify the most popular pizza options
-6. **Bottom 5 worst-selling pizzas sold** - Bar chart to identify underperforming/least popular pizza options
+3. **Percentage of sales by pizza category** - Pie chart to show distribution of sales across different pizza categories and their contribution to overall sales.
+4. **Percentage of sales by pizza size** - Pie chart to understand customer preferences for pizza sizes and their input on sales.
+5. **Total pizzas sold by pizza category** - Bar chart to represent the total number of pizzas sold for each pizza category. Compare the sales performance of different pizza categories.
+6. **Top 5 Best-selling pizzas by total pizzas sold** - Bar chart to identify the most popular pizza options
+7. **Bottom 5 worst-selling pizzas sold** - Bar chart to identify underperforming/least popular pizza options
 
 
 **KEY INSIGHTS** -
